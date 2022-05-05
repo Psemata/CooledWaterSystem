@@ -21,3 +21,5 @@ L'explication du modèle SVR est présente dans le fichier "SVR.md"
 ### Arbre de décision
 
 L'explication de l'arbre de décision est présente dans le fichier "DT.md"
+
+## Conclusion

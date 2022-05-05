@@ -64,4 +64,5 @@ L'activation des deux premières couches est de type "relu" --> "Rectified Linea
 
 ## Conclusion
 
-En conclusion
+En conclusion, le modèle utilisé pour le réseau neuronal est plutôt performant, avec une valeur de loss très petite, il permet de prédire de manière assez correcte la valeur de la température après le passage de ventilateurs.
+Lorsque l'on compare les deux graphiques, celui des valeurs prédites et celui des valeurs réelles, on voit que les pics sont bien trouvés et bien qu'un peu instables, les autres valeurs sont justes.
