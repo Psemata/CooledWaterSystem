@@ -23,3 +23,6 @@ L'explication du modèle SVR est présente dans le fichier "SVR.md"
 L'explication de l'arbre de décision est présente dans le fichier "DT.md"
 
 ## Conclusion
+
+Après avoir créé et testé les trois différents modèles énumérés ci-dessus, on peut voir que les performances sont très ressemblantes mais vu que c'est un cas d'école, il est normal que de modèles simples obtiennent des performances intéressantes.
+Comme vu en classe, chaque modèle possède ses qualités et ses défauts, il est donc important au développeur d'utiliser le bon modèle au bon moment.
