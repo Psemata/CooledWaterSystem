@@ -1,28 +1,22 @@
 # CooledWaterSystem
 
 ## Introduction
+As part of the 3rd-year Artificial Intelligence module in Software and Multimedia Development at HE-Arc, a practical exercise on "Machine Learning" is required. In this practical work, a specific dataset is provided to each group. Our group has chosen a dataset representing data from a water cooling system.
 
-Dans le cadre du module d'intelligence artificielle de 3ème année de Développement en logiciel et multimédia à la HE-Arc, il est demandé de réalisé un TP sur le "Machine Learning". Dans ce travail pratique, un dataset préçis est fourni à chaque groupe. Le nôtre a choisi un dataset représentant des données d'un système de refroidissement de l'eau.
+The goal of the implemented models is to predict the temperature after the water passes through the cooling fan section.
 
-Le but des modèles qui vont être implémentés est de prédire la température après le passage de l'eau dans la partie de refroidissement par ventilateurs.
+Documentation
+This Git repository contains various Markdown files that serve as documentation for the multiple models implemented in this project.
 
-## Documentation
+Neural Network
+The explanation of the neural network model can be found in the file "NeuralNetwork.md."
 
-Ce repository git contient différents fichiers markdown qui sont les documentations pour les multiples modèles implémentés dans ce projet.
+Support Vector Regression (SVR)
+The explanation of the SVR model can be found in the file "SVR.md."
 
-### Réseau de neurones
+Decision Tree
+The explanation of the decision tree model can be found in the file "DT.md."
 
-L'explication du modèle de réseau de neurones est présente dans le fichier "NeuralNetwork.md"
-
-### SVR
-
-L'explication du modèle SVR est présente dans le fichier "SVR.md"
-
-### Arbre de décision
-
-L'explication de l'arbre de décision est présente dans le fichier "DT.md"
-
-## Conclusion
-
-Après avoir créé et testé les trois différents modèles énumérés ci-dessus, on peut voir que les performances sont très ressemblantes mais vu que c'est un cas d'école, il est normal que de modèles simples obtiennent des performances intéressantes.
-Comme vu en classe, chaque modèle possède ses qualités et ses défauts, il est donc important au développeur d'utiliser le bon modèle au bon moment.
+Conclusion
+After creating and testing the three different models listed above, it can be seen that the performances are quite similar. However, since this is a learning scenario, it is normal for simple models to achieve interesting results.
+As discussed in class, each model has its strengths and weaknesses, so it is important for developers to use the right model at the right time.
